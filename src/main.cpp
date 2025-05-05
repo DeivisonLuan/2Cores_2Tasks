@@ -1,10 +1,6 @@
 /*
 1 - Alternar em 2 tasks, 1 por nucleo as funcionalidades de controle pwm de um led 
 e na outra piscar um led com determinada frequencia
-
-2 - Adicionar uma task para o user fornecer a frequencia de pelo terminal serial e
-um botão que ao ser apertado mostra no serial o valor analógico lido de um potenciometro
-    (usar DIH: ISR + semaforo)
 */
 
 #include <Arduino.h>
